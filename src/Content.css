@@ -1,0 +1,24 @@
+.bg-black {
+    background-color: #0f0e0e;
+}
+
+.fixed-height-40 {
+    height: 40%;
+}
+
+.terminal-heading {
+    color: #ffffff;
+    font-size: 18px;
+    margin: 1rem;
+}
+
+.terminal-output {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 18px;
+    margin: 1rem;
+}
+
+.center-align {
+    text-align: center;
+}
